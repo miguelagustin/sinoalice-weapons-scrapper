@@ -1,0 +1,1 @@
+Simple script that takes data from https://sinoalice.game-db.tw/weapons and transforms it into a csv. Utilizes Selenium and BeautifulSoup.
